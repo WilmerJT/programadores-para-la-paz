@@ -1,0 +1,9 @@
+Algoritmo:
+Cómo compartir información confiable en internet.
+- Encender el computador
+- Abrir un programa de navegación, por ejemplo: Chrome, Edge …
+- Buscar la información que se quiere compartir 
+- Revisar si medios de comunicación oficiales también la están compartiendo 
+- Revisar la fuente de la información 
+- Revisar si no fue creada por IA
+- Compartir la información si se verifica que es confiable.
