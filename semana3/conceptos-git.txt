@@ -1,0 +1,11 @@
+Repositorio:
+un Repositorio es donde se guarda la informacion de un proyecto,  
+muestra sus archivos, carpetas, cambios y como usarlo.
+
+Commit: 
+Un commit es el texto que se envia al realizar un cambio en un proyecto, 
+describiendo todo lo que se hizo o modifico.
+
+Push:
+El push es la manera de enviar los cambios al repositorio para que se 
+guarden en este. 
