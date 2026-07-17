@@ -1,0 +1,9 @@
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso y facilitar el seguimiento por parte de la comunidad.
+
+2. Como coordinador quiero consultar los reportes registrados para hacer seguimiento, verificar la información y dar respuesta a cada caso.
+
+3. Como coordinador quiero recibir una notificación cuando se registre un nuevo reporte para atenderlo de manera oportuna.
+
+4. Como miembro del equipo quiero generar un borrador de un derecho de petición para orientar a la comunidad en sus solicitudes.
+
+5. Como administrador quiero gestionar los permisos de los usuarios para garantizar que solo las personas autorizadas puedan ver, modificar o eliminar la información.
